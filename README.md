@@ -1,1 +1,1 @@
-# django-with-js
+django js
